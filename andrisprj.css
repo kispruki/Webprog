@@ -1,0 +1,17 @@
+body{
+    background-image: url(hatter.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color:whitesmoke
+    
+    
+}
+
+h1{
+    text-align: center;
+    color: cyan;
+}
+
+h2{
+    color: cyan;
+}
